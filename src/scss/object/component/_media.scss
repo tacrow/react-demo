@@ -1,0 +1,18 @@
+@charset "utf-8";
+/*
+ * object/component/_media.scss
+ */
+
+.c-media-item {
+	border: 1px solid #dfdfdf;
+	box-sizing: border-box;
+	cursor: pointer;
+}
+.c-media-item__img {
+	width: 100%;
+	&:hover {
+		~.c-media-item__body {
+			opacity: 1;
+		}
+	}
+}

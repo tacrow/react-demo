@@ -1,0 +1,52 @@
+[
+	{
+		"autor": "User1",
+		"autorImg": "/src/img/img1.png",
+		"comment": "hogehogehogehogehogehogehogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User2",
+		"autorImg": "/src/img/img2.png",
+		"comment": "hogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User3",
+		"autorImg": "/src/img/img3.png",
+		"comment": "hogehogehogehogehogehogehogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User4",
+		"autorImg": "/src/img/img1.png",
+		"comment": "hogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User5",
+		"autorImg": "/src/img/img2.png",
+		"comment": "hogehogehogehogehogehogehogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User6",
+		"autorImg": "/src/img/img3.png",
+		"comment": "hogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User7",
+		"autorImg": "/src/img/img1.png",
+		"comment": "hogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User8",
+		"autorImg": "/src/img/img2.png",
+		"comment": "hogehogehogehogehogehogehogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User9",
+		"autorImg": "/src/img/img3.png",
+		"comment": "hogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User8",
+		"autorImg": "/src/img/img2.png",
+		"comment": "hogehogehogehogehogehogehogehogehogehogehogehoge"
+	}
+]

@@ -1,0 +1,17 @@
+@charset "utf-8";
+/*
+ * object/component/_heading.scss
+ */
+.c-heading {
+	margin-bottom: 10px;
+	@include fs18;
+	font-weight: bold;
+}
+
+.p-heading--sub {
+	padding-top: 3px;
+	padding-left: 8px;
+	border-left: 5px solid #128fdc;
+	@include fs20;
+	line-height: 1;
+}

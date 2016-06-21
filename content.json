@@ -1,0 +1,17 @@
+[
+	{
+		"autor": "User1",
+		"autorImg": "../src/img/img1.png",
+		"comment": "hogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User2",
+		"autorImg": "../src/img/img2.png",
+		"comment": "hogehogehogehogehogehoge"
+	},
+	{
+		"autor": "User3",
+		"autorImg": "../src/img/img3.png",
+		"comment": "hogehogehogehogehogehoge"
+	}
+]
